@@ -1,3 +1,3 @@
-# sharing
+# thura-sharing
 
 sharing is caring
